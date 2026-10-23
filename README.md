@@ -1,5 +1,5 @@
 # homework4-app
-# Team Rocket — E-commerce Operations Dashboard
+# E-commerce Operations Dashboard by team 'Machine not Learning'
 
 An in-class group exercise submission for the Data App course.
 Deployed with Streamlit Cloud; built following the Data App Tutorial.
