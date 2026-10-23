@@ -6,7 +6,7 @@ plt.style.use('seaborn-v0_8')
 
 st.set_page_config(page_title='E-commerce Ops Dashboard', layout='wide')
 
-st.title('Team Rocket · E-commerce Operations Dashboard')
+st.title("E-commerce Operations Dashboard by team 'Machine not Learning'")
 st.caption('For the E-commerce Operations Manager. Supports: adjusting category discount caps and flagging high-return SKUs.')
 st.caption('Data: 2023-01-01 — 2023-12-22 (course snapshot; Dec incomplete). Production refresh: nightly; reviewed weekly (daily in Nov–Dec).')
 
