@@ -4,8 +4,8 @@
 An in-class group exercise submission for the Data App course.
 Deployed with Streamlit Cloud; built following the Data App Tutorial.
 
-- **Deployed app**: <paste your Streamlit app URL here>
-- **Repository**: <paste your GitHub repo URL here>
+- **Deployed app**: <paste your Streamlit app URL here>https://ecommerce-orders-app-8yxmt8jxzgwyojaght7pyt.streamlit.app/
+- **Repository**: <paste your GitHub repo URL here>https://github.com/lsc-ivy/ecommerce-orders-app
 
 ---
 
